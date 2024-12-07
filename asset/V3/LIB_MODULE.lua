@@ -988,8 +988,8 @@ Library.Sections.__index = Library.Sections
 			local UIGradient1 = Instance.new("UIGradient")
 			UIGradient1.Name = "UIGradient"
 			UIGradient1.Color = ColorSequence.new({
-				ColorSequenceKeypoint.new(0, Color3.fromRGB(255, 255, 255)),
-				ColorSequenceKeypoint.new(1, Color3.fromRGB(145, 145, 145)),
+				ColorSequenceKeypoint.new(0, Color3.fromRGB(25, 25, 25)),
+				ColorSequenceKeypoint.new(1, Color3.fromRGB(30, 30, 30)),
 			})
 			UIGradient1.Rotation = 90
 			UIGradient1.Parent = Accent1
